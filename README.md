@@ -35,8 +35,6 @@ t r : v l is a travel website designed to showcase popular destinations in the P
 ## Installation
 
 1. Clone the repository:
-git clone https://github.com/Juan-Miguel-Arceo/final-project-itc.git
-
 
 2. Open the project folder in your preferred code editor.
 
